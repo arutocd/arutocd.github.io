@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ca28d4c2","path":"/profile/","title":"プロフィール","lang":"ja-JP","frontmatter":{"sidebar":false},"headers":[],"git":{},"filePathRelative":"profile/index.md"}');export{e as data};
